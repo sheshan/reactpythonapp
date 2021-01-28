@@ -35,3 +35,5 @@ To run first install dependencies "npm install" and then start the application "
 
 ### Screen Shot of the application
 ![Screenshot1](/screencapture-1.png)
+
+![Screenshot2](/screencapture-2.png)

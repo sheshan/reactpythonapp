@@ -32,3 +32,6 @@ Dashboard.js contains a line chart and Table. A routine to get Data from an API 
 
 
 To run first install dependencies "npm install" and then start the application "npm start"
+
+### Screen Shot of the application
+![Screenshot1](/screencapture-1.png)
